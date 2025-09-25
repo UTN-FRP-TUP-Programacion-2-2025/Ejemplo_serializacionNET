@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Serializacion", "Serializacion\Serializacion.csproj", "{47E12258-D422-4A46-BE02-504CF0C5651E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Deserializacion", "Deserializacion\Deserializacion.csproj", "{AFF630EB-80B7-40F0-A6B1-FEDB7DEF4D97}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{47E12258-D422-4A46-BE02-504CF0C5651E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E12258-D422-4A46-BE02-504CF0C5651E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E12258-D422-4A46-BE02-504CF0C5651E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E12258-D422-4A46-BE02-504CF0C5651E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AFF630EB-80B7-40F0-A6B1-FEDB7DEF4D97}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFF630EB-80B7-40F0-A6B1-FEDB7DEF4D97}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFF630EB-80B7-40F0-A6B1-FEDB7DEF4D97}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFF630EB-80B7-40F0-A6B1-FEDB7DEF4D97}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D86DF589-B271-41CA-B392-0F34BE15E81E}
+	EndGlobalSection
+EndGlobal
